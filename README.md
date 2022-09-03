@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm itgoyo</h1>
+<h1 align="center">Hi 👋, I'm Maha </h1>
 
 ![:name](https://count.getloli.com/get/@ShadowMAha)
 
