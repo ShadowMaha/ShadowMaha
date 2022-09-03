@@ -10,7 +10,7 @@
 
 
 
-<h3 align="center"> a little more about me </h3>
+<h3 align="center"> A little more about me </h3>
 
 
 
