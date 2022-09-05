@@ -21,9 +21,12 @@
   <p align="center">
   i have 18 years old born to January 
   </p>
-
-
-
+  <p align="center">
+  i love cute things, and bunny ohwww is so cute 🐇
+   </p>
+   <p align="center">
+i am a transexual girl (boy want to be a girl) 
+ </p>
 
 <!---
 ShadowMaha/ShadowMaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
