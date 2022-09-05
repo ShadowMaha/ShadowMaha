@@ -28,7 +28,7 @@
 i am a transexual girl (boy want to be a girl) 
  </p>
  <p align="center">
-language speak
+language speak : French 🇫🇷, English 🇬🇧
 </p>
 <!---
 ShadowMaha/ShadowMaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
