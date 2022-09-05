@@ -11,6 +11,15 @@
 
 
 <h3 align="center"> A LITTLE MORE ABOUT ME </h3>
+<p align="center">
+  hello ! my name is maha ! Pleased to meet you !
+  </p>
+  <p align="center">
+  im a french developper but not a proffesional developer
+  </p>
+  <p align="center">
+  i have 18 years old born to January 
+  </p>
 
 
 
