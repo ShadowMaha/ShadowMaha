@@ -30,6 +30,10 @@ i am a transexual girl (boy want to be a girl)
  <p align="center">
 language speak : French 🇫🇷 English 🇬🇧
 </p>
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left"> <a href="https://developer.apple.com/" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2013/12/apple-logo-1.png" alt="Apple dev" width="40" height="50"/> </a> <a href="https://www.apple.com/fr/swift/" target="_blank"> <img src="https://www.wired.com/wp-content/uploads/2014/07/Apple_Swift_Logo.png" alt="bash" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  
 <!---
 ShadowMaha/ShadowMaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
