@@ -52,7 +52,7 @@ for any help! I invite you to contact me directly by one of the direct messaging
 
 </p>
 <hr>
-<h1 align="center"> this is block line</h1>
+<h1 align="center">End for the moment</h1>
 
   
 <!---
